@@ -1,4 +1,3 @@
-# Elena Ziege
 
 # Welcome to my webpage! 
 
