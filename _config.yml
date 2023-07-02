@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Elena Ziege
-description: This is my personal webpage. # [A short description of your site's purpose]
+# description: This is my personal webpage. # [A short description of your site's purpose]
 
 show_downloads: false # ["true" or "false" (unquoted) to indicate whether to provide a download URL]
 google_analytics: 275237705
