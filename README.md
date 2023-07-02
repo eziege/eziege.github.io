@@ -1,4 +1,4 @@
-# eziege.github.io
+# About me
 
 # h1 heading
 ## h2 heading
