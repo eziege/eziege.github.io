@@ -1,8 +1,36 @@
+title: Elena Ziege
+description: My very nice blog
+author: "Elena Ziege"
+
 theme: minima
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: Elena Ziege 
-description: This is my personal webpage. # [A short description of your site's purpose]
+base_url: /gh-pages-minima-starter
 
+# Minima social links
+twitter_username: xurxosanz
+github_username: jsanz
+linkedin_username: jsanz
+rss: rss
 
+# Minima: show excerpts in the frontpage
+show_excerpts: true
+
+minima:
+  date_format: "%Y-%m-%d"
+
+# Minima: custom header links
+header_pages:
+  - _pages/frontpage.md
+  - _pages/about.md
+  - _pages/archive.md
+
+include:
+    - _pages
+
+exclude: 
+    - .gitignore
+    - docker-compose.yml
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
