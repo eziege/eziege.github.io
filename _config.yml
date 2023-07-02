@@ -1,5 +1,5 @@
 title: Elena Ziege
-description: My very nice blog
+description: My webpage
 author: "Elena Ziege"
 
 theme: minima
@@ -7,10 +7,9 @@ theme: minima
 base_url: /eziege
 
 # Minima social links
-twitter_username: xurxosanz
-github_username: jsanz
-linkedin_username: jsanz
-rss: rss
+twitter_username: Elena_Ziege
+github_username: eziege
+linkedin_username: Elena Ziege
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
