@@ -4,6 +4,7 @@ layout: page
 title: About me
 ---
 
-More details about me on this page with links to my social media profiles and so on.
-
-![](https://www.jorgesanz.net/assets/imgs/me/jsanz_small4.png)
+I am a PhD student at the Federal Institute for Population Research (BiB), Wiesbaden and the Johannes Gutenberg University, Mainz.
+My main research interests are family economics, education economics and migration economics.
+Feel free to get in touch with me to discuss my research.
+Here you can download my CV.
