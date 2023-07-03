@@ -16,5 +16,5 @@ Here you can download my [CV](https://drive.google.com/file/d/1J5j2-OxePIo3GvP4S
 
 
 
-<img src="./assets/imgs/bild_horizontal.jpg" width="400px">
+<img src="./assets/imgs/bild_horizontal.jpg" width="800px">
 
