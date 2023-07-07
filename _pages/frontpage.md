@@ -12,7 +12,7 @@ My main research interests are family economics, education economics and migrati
 
 Feel free to get in touch with me to discuss my research.
 
-
+Here you can download my [CV](https://drive.google.com/file/d/1J5j2-OxePIo3GvP4S-bk9R1cEQLKdSjV/view?usp=sharing).
 
 
 <img src="/assets/imgs/bild_horiziontal.jpg" width="600px">
