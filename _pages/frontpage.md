@@ -1,4 +1,4 @@
-e ---
+---
 permalink: /
 layout: home
 title: Welcome
