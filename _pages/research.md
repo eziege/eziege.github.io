@@ -4,7 +4,9 @@ layout: page
 title: Research
 ---
 
-**[Does Grandparenting Pay off for the Next Generations? Intergenerational Effects of Grandparental Care (with Mara Barschkett and C. Katharina Spiess)](https://www.iza.org/publications/dp/14795/does-grandparenting-pay-off-for-the-next-generations-intergenerational-effects-of-grandparental-care)**
+**<a href="https://www.iza.org/publications/dp/14795/does-grandparenting-pay-off-for-the-next-generations-intergenerational-effects-of-grandparental-care" style="color:black;">Does Grandparenting Pay off for the Next Generations? Intergenerational Effects of Grandparental Care (with Mara Barschkett and C. Katharina Spiess)</a>**
+
+[Does Grandparenting Pay off for the Next Generations? Intergenerational Effects of Grandparental Care (with Mara Barschkett and C. Katharina Spiess)](https://www.iza.org/publications/dp/14795/does-grandparenting-pay-off-for-the-next-generations-intergenerational-effects-of-grandparental-care)
 
 <details>
     <summary>Abstract</summary>
