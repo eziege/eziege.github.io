@@ -4,7 +4,7 @@ layout: page
 title: Research
 ---
 
-#### **Does Grandparenting Pay off for the Next Generations? Intergenerational Effects of Grandparental Care (with Mara Barschkett and C. Katharina Spiess)**
+**Does Grandparenting Pay off for the Next Generations? Intergenerational Effects of Grandparental Care (with Mara Barschkett and C. Katharina Spiess)**
 
 <details>
     <summary>Abstract</summary>
@@ -12,9 +12,12 @@ Grandparents act as the third largest caregiver after parental care and daycare 
 </details>
 
 
-#### **Should Mama or Papa Work? Variations in attitudes towards parental employment by country of origin and child age (with Ludovica Gambaro, C. Katharina Spiess and Katharina Wrohlich)**
+**Should Mama or Papa Work? Variations in attitudes towards parental employment by country of origin and child age (with Ludovica Gambaro, C. Katharina Spiess and Katharina Wrohlich)**
 
+<details>
+    <summary>Abstract</summary>
 Employment among mothers has been rising in recent decades, although mothers of young children often work fewer hours than other women do. Parallel to this trend, approval of maternal employment has increased, albeit not evenly across groups. However, differences in attitudes remain unexplored despite their importance for better understanding mothers’ labour market behaviour. Meanwhile, the employment of fathers has remained stable and attitudes towards paternal employment do not differ as much as attitudes towards maternal employment do between socio-economic groups. This paper examines attitudes towards maternal and paternal employment. It focuses on Germany, drawing on data from the German Family Demography Panel Study (FReDA) . The survey explicitly asks whether mothers and fathers should be in paid work, work part-time or full-time, presenting respondents with fictional family profiles that vary the youngest child’s age. Unlike previous studies, the analysis compares the views of respondents with different origins: West Germany, East Germany, immigrants from different world regions, and second-generation migrants in West Germany. The results highlight remarkable differences between respondents from West and East Germany, with the former group displaying strong approval for part-time employment among mothers and fathers of very young children and the latter group reporting higher approval for full-time employment. Immigrant groups are far from homogenous, holding different attitudes depending on their region of origin. Taken together, the results offer a nuanced picture of attitudes towards maternal and paternal employment. We discuss these findings in relation to labour markets participation in Germany.
+</details>
 
-
+**Birthright Citizenship, Educational Aspirations and Children’s Secondary Education**
 
