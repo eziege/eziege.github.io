@@ -12,7 +12,9 @@
               {{ site.title | escape }}
             {%- endif -%}
             </li>
-            <p>{{ elena.ziege@bib.bund.de }}</p>
+            {%- if site.email -%}
+            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            {%- endif -%}
         </ul>
       </div>
 
