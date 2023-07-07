@@ -6,7 +6,10 @@ title: Research
 
 #### **Does Grandparenting Pay off for the Next Generations? Intergenerational Effects of Grandparental Care (with Mara Barschkett and C. Katharina Spiess)**
 
+<details>
+    <summary>Abstract</summary>
 Grandparents act as the third largest caregiver after parental care and daycare in Germany, as in many Western societies. Adopting a double-generation perspective, we investigate the causal impact of this care mode on children’s health, socio-emotional behavior, and school outcomes, as well as parental well-being. Based on representative German panel data sets, and exploiting arguably exogenous variations in geographical distance to grandparents, we analyze age-specific effects, taking into account alternative care modes. Our results suggest mainly null and in few cases negative effects on children’s outcomes. If children three years and older are in full-time daycare or school and, in addition, regularly cared for by grandparents, they have more health and socio-emotional problems, in particular conduct problems. In contrast, our results point to positive effects on parental satisfaction with the childcare situation and mothers' satisfaction with leisure. 
+</details>
 
 
 #### **Should Mama or Papa Work? Variations in attitudes towards parental employment by country of origin and child age (with Ludovica Gambaro, C. Katharina Spiess and Katharina Wrohlich)**
