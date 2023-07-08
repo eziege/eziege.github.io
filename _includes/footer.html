@@ -4,25 +4,11 @@
   <div class="wrapper">
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            {%- if site.author -%}
-              {{ site.author | escape }}
-            {%- else -%}
-              {{ site.title | escape }}
+            {{ site.author | escape }}
+            {{ site.mail | escape }}
             {%- endif -%}
-            </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-        </ul>
       </div>
-
       <div class="footer-col footer-col-2">
-        {{ site.mail | escape }}
-      </div>
-
-      <div class="footer-col footer-col-3">
         {%- include social.html -%}
       </div>
     </div>
