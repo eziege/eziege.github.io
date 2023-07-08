@@ -4,9 +4,9 @@
   <div class="wrapper">
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-            <li> {{ site.author | escape }} </li>
-           <li> {{ site.mail | escape }} </li>
-        {{ site.phone | escape }}
+        <p>{{- site.author | escape -}}</p> 
+        <p>{{- site.mail | escape -}}</p>
+        <p>{{- site.phone | escape -}}</p>
       </div>
       <div class="footer-col footer-col-2">
         {%- include social.html -%}
@@ -18,3 +18,4 @@
     </div>
   </div>
 </footer>
+
