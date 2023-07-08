@@ -20,7 +20,7 @@ Feel free to get in touch with me to discuss my research.
 
 <br/>
 
-<img src="/assets/imgs/bild_horiziontal.jpg" width="600px">
+<center><img src="/assets/imgs/bild_horiziontal.jpg" width="600px">
 
 
 
