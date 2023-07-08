@@ -3,7 +3,9 @@ description:
 author: "Elena Ziege"
 mail: "elena.ziege@bib.bund.de"
 phone : "+49 (0) 611 75 4120"
-address : "Friedrich-Ebert-Allee 4, 65185 Wiesbaden"
+address1 : "Friedrich-Ebert-Allee 4"
+address2 : "65185 Wiesbaden"
+
 
 theme: minima
 
