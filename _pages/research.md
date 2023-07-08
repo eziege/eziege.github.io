@@ -22,7 +22,7 @@ Employment among mothers has been rising in recent decades, although mothers of 
 
 <br/>
 
-**Can Universal Daycare Reduce Abortions Rates? (with Mara Barschkett, Mathias Huebener und C. Katharin Spiess)**
+**Can Universal Daycare Reduce Abortions Rates? (with Mara Barschkett, Mathias Huebener und C. Katharina Spiess)**
 
 <br/>
 
