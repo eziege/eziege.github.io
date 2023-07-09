@@ -15,7 +15,7 @@ base_url: /
 twitter_username: Elena_Ziege
 github_username: eziege
 linkedin_username: elena-ziege
-google_scholar_username: "Elena Ziege"
+- { platform: google_scholar, user_url: "https://scholar.google.de/citations?user=Xl30A3UAAAAJ&hl=de&oi=ao" }
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
