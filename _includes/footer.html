@@ -4,16 +4,15 @@
   <div class="wrapper">
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
-        <p>{{- site.author | escape -}}</p> 
-        <p>{{- site.mail | escape -}}</p>
-        <p>{{- site.phone | escape -}}</p>
+        {{- site.mail | escape -}}
+        {{- site.phone | escape -}}
       </div>
       <div class="footer-col footer-col-2">
         {%- include social.html -%}
       </div>
       <div class="footer-col footer-col-3">
-        <p>{{- site.address1 | escape -}}</p>
-        <p>{{- site.address2 | escape -}}</p>
+        {{- site.address1 | escape -}}
+        {{- site.address2 | escape -}}
       </div>
     </div>
   </div>
