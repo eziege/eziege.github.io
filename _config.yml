@@ -14,7 +14,6 @@ base_url: /
 # Minima social links
 twitter_username: Elena_Ziege
 linkedin_username: elena-ziege
-- { platform: google_scholar, user_url: "https://scholar.google.de/citations?user=Xl30A3UAAAAJ&hl=de&oi=ao" }
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
