@@ -4,7 +4,7 @@ layout: page
 title: Research
 ---
 
-**<a href="https://www.iza.org/publications/dp/14795/does-grandparenting-pay-off-for-the-next-generations-intergenerational-effects-of-grandparental-care" style="color:black; text-decoration: underline;">Does Grandparenting Pay off for the Next Generations? Intergenerational Effects of Grandparental Care</a>(with Mara Barschkett and C. Katharina Spiess)**
+**<a href="https://www.iza.org/publications/dp/14795/does-grandparenting-pay-off-for-the-next-generations-intergenerational-effects-of-grandparental-care" style="color:black; text-decoration: underline;">Does Grandparenting Pay off for the Next Generations? Intergenerational Effects of Grandparental Care</a> (with Mara Barschkett and C. Katharina Spiess)**
 
 <details>
     <summary>Abstract</summary>
@@ -13,7 +13,7 @@ Grandparents act as the third largest caregiver after parental care and daycare 
 
 <br/>
 
-**<a href="https://www.comparativepopulationstudies.de/index.php/CPoS/article/view/578" style="color:black; text-decoration: underline;">Should Mama or Papa Work? Variations in attitudes towards parental employment by country of origin and child age.</a> Comparative Population Studies, Vol. 48: 339-368 (with Ludovica Gambaro, C. Katharina Spiess and Katharina Wrohlich).**
+**<a href="https://www.comparativepopulationstudies.de/index.php/CPoS/article/view/578" style="color:black; text-decoration: underline;">Should Mama or Papa Work? Variations in attitudes towards parental employment by country of origin and child age.</a>  Comparative Population Studies, Vol. 48: 339-368 (with Ludovica Gambaro, C. Katharina Spiess and Katharina Wrohlich).**
 
 <details>
     <summary>Abstract</summary>
