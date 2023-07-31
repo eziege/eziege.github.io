@@ -30,5 +30,4 @@ The results highlight remarkable differences between respondents from West and E
 
 **Birthright Citizenship, Educational Aspirations and Children’s Secondary Education**
 
-<br/>
 
