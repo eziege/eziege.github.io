@@ -1,3 +1,5 @@
+  {% raw %}{% seo %}{% endraw %}
+
 ---
 permalink: /
 layout: home
