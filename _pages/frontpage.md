@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: About
+title: About me
 list_title: My blog posts
 ---
 
