@@ -15,11 +15,12 @@ The results highlight remarkable differences between respondents from West and E
 
 <br/>
 
-**<a href="https://www.iza.org/publications/dp/14795/does-grandparenting-pay-off-for-the-next-generations-intergenerational-effects-of-grandparental-care" style="color:black; text-decoration: underline;">Does Grandparenting Pay off for the Next Generations? Intergenerational Effects of Grandparental Care</a> (with Mara Barschkett and C. Katharina Spiess)**
+**<a href="https://www.iza.org/publications/dp/14795/does-grandparenting-pay-off-for-the-next-generations-intergenerational-effects-of-grandparental-care" style="color:black; text-decoration: underline;">Does Grandparenting Pay off for the Next Generations' Well-being? </a> (with Mara Barschkett and C. Katharina Spiess)**
 
 <details>
     <summary>Abstract</summary>
-Grandparents act as the third largest caregiver after parental care and daycare in Germany, as in many Western societies. Adopting a double-generation perspective, we investigate the causal impact of this care mode on children’s health, socio-emotional behavior, and school outcomes, as well as parental well-being. Based on representative German panel data sets, and exploiting arguably exogenous variations in geographical distance to grandparents, we analyze age-specific effects, taking into account alternative care modes. Our results suggest mainly null and in few cases negative effects on children’s outcomes. If children three years and older are in full-time daycare or school and, in addition, regularly cared for by grandparents, they have more health and socio-emotional problems, in particular conduct problems. In contrast, our results point to positive effects on parental satisfaction with the childcare situation and mothers' satisfaction with leisure. 
+Grandparents act as the third largest caregiver for children after parental care and daycare in Germany, as in many Western societies. Adopting a double-generation perspective, we investigate the causal impact of this care mode on parental well-being and children's overall
+health as one dimension of child well-being. We analyze age-speci c e ects based on a representative German panel data set and exploit arguably exogenous variations in geographical distance to grandparents. Our results suggest positive e ects on parental satisfaction with the childcare situation and mothers' satisfaction with leisure. In contrast, our results point to negative e ects on children's health in the short run. If children three years and older are in full-time daycare or school and, in addition, regularly cared for by grandparents, they have worse health outcomes.
 </details>
 
 <br/>
