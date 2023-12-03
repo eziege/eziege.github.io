@@ -4,7 +4,7 @@ layout: page
 title: Policy
 ---
 
-Oma und Opa gefragt? Veränderungen in der Enkelbetreuung - Wohlbefinden von Eltern - Wohlergehen von Kindern. BiB.Bevölkerungs.Studien 1/2022. Wiesbaden: Bundesinstitut für Bevölkerungsforschung (with Mara Barschkett, Ludovica Gambaro, Clara Schäper and C. Katharina Spiess). 
+<a href="https://www.bib.bund.de/Publikation/2022/pdf/Oma-und-Opa-gefragt-Veraenderungen-in-der-Enkelbetreuung-Wohlbefinden-von-Eltern-Wohlergehen-von-Kindern.pdf?__blob=publicationFile&v=6" style="color:black; text-decoration: underline;">Oma und Opa gefragt? Veränderungen in der Enkelbetreuung - Wohlbefinden von Eltern - Wohlergehen von Kindern.</a> BiB.Bevölkerungs.Studien 1/2022. Wiesbaden: Bundesinstitut für Bevölkerungsforschung (with Mara Barschkett, Ludovica Gambaro, Clara Schäper and C. Katharina Spiess). 
 
 Fast jedes zehnte Kind geht auf eine Privatschule: Nutzung hängt insbesondere in Ostdeutschland zunehmend vom Einkommen der Eltern ab. DIW Weekly Report 2018, 85(51/52) (with Katja Görlitz and C. Katharina Spiess).
 
