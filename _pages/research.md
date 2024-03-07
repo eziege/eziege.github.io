@@ -15,7 +15,7 @@ The results highlight remarkable differences between respondents from West and E
 
 <br/>
 
-**<a href="https://drive.google.com/file/d/1_TwCEwnNmQookPuTnR2HZgUstj2hIVtD/view?usp=sharing" style="color:black; text-decoration: underline;">Does Grandparenting Pay off for the Next Generations' Well-being? </a> (with Mara Barschkett and C. Katharina Spiess)**
+**<a href="https://drive.google.com/file/d/1_TwCEwnNmQookPuTnR2HZgUstj2hIVtD/view?usp=sharing" style="color:black; text-decoration: underline;">Does Grandparenting Pay off for the Next Generations' Health and Well-being? </a> (with Mara Barschkett and C. Katharina Spiess)**
 
 <details>
     <summary>Abstract</summary>
@@ -25,11 +25,6 @@ health as one dimension of child well-being. We analyze age-speci c e ects b
 
 <br/>
 
-
-
-**Can Universal Daycare Reduce Abortions Rates? (with Mara Barschkett, Mathias Huebener und C. Katharina Spiess)**
-
-<br/>
 
 **Family Spill-Overs of Birthright Citizenship**
 
