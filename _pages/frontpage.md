@@ -13,7 +13,7 @@ My research focuses on family economics, especially in relation to education and
 
 <br/>
 
-<img src="/assets/imgs/download_symbol.png" width="20px"> Download my <a href="https://drive.google.com/file/d/1Wpp3aVp5y7jt4F1rM9w3RsNm4TpbcOIs/view?usp=sharing" style="color:black; text-decoration: underline;">CV</a>.
+<img src="/assets/imgs/download_symbol.png" width="20px"> Download my <a href="https://drive.google.com/file/d/1xyHyINHKmhGZiGiGY20dTCEXxvP46qOF/view?usp=share_link" style="color:black; text-decoration: underline;">CV</a>.
 
 
 
