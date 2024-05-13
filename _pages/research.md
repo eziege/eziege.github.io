@@ -26,6 +26,15 @@ health as one dimension of child well-being. We analyze age-speci c e ects b
 <br/>
 
 
-**Family Spill-Overs of Birthright Citizenship**
+**<a href="https://www.bib.bund.de/Publikation/2024/Passport-to-Progress-The-Effects-of-Birthright-Citizenship-on-Siblings-Education.html?nn=1219558" style="color:black; text-decoration: underline;">Passport to Progress: The Effects of Birthright Citizenship on Siblings’ Education </a>**
+
+
+<details>
+    <summary>Abstract</summary>
+Many western countries are currently facing three major challenges. First, they experience increasing inflows of immigrants. Secondly, in the majority of countries, immigrant children, on average, exhibit lower academic performance in comparison to their non-immigrant peers. The third challenge is the unmet demand for highly skilled labor as a consequence of demographic change. One policy that may help to tackle these challenges is the granting of citizenship to immigrant children, promoting integration and education. To provide a more thorough account of the total benefits of citizenship, I examine not only the direct effects on these immigrant children but also spillover effects on their older siblings. Event study and difference-in-differences approaches are employed, taking advantage of the implementation of birthright citizenship in Germany for children born after 2000 and comparing children born around the birthdate cut-off. Analyses using the German Microcensus and the National Educational Panel Study (NEPS) provide evidence that birthright citizenship is advantageous for the education of children specifically targeted by the reform and also has positive spillover effects on the academic school track completion of their older siblings. Further analyses indicate that these spillover effects are driven by increased parental investments, particularly towards the older siblings. These findings reveal that previous assessments of citizenship have underestimated its benefits.
+</details>
+
+
+
 
 
