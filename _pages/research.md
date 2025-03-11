@@ -4,7 +4,7 @@ layout: page
 title: Research
 ---
 
-**<a href="https://www.comparativepopulationstudies.de/index.php/CPoS/article/view/578" style="color:black; text-decoration: underline;">Should Mama or Papa Work? Variations in attitudes towards parental employment by country of origin and child age.</a> ** Comparative Population Studies, Vol. 48: 339-368 (with Ludovica Gambaro, C. Katharina Spiess and Katharina Wrohlich).
+**<a href="https://www.comparativepopulationstudies.de/index.php/CPoS/article/view/578" style="color:black; text-decoration: underline;">Should Mama or Papa Work? Variations in attitudes towards parental employment by country of origin and child age.</a>** Comparative Population Studies, Vol. 48: 339-368 (with Ludovica Gambaro, C. Katharina Spiess and Katharina Wrohlich).
 
 <details>
     <summary>Abstract</summary>
