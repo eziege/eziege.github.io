@@ -15,7 +15,7 @@ The results highlight remarkable differences between respondents from West and E
 
 <br/>
 
-**<a href="https://drive.google.com/file/d/1_TwCEwnNmQookPuTnR2HZgUstj2hIVtD/view?usp=sharing" style="color:black; text-decoration: underline;">Does Grandparenting Pay off for the Next Generations' Health and Well-being? </a>** (with Mara Barschkett and C. Katharina Spiess) **R&R** at **Health Economics**
+**<a href="https://drive.google.com/file/d/1_TwCEwnNmQookPuTnR2HZgUstj2hIVtD/view?usp=sharing" style="color:black; text-decoration: underline;">Does Grandparenting Pay off for the Next Generations' Health and Well-being? </a>** (with Mara Barschkett and C. Katharina Spiess). **R&R** at **Health Economics**. This version: October 2021.
 
 <details>
     <summary>Abstract</summary>
@@ -25,7 +25,7 @@ Health and well-being in the family context can be affected by care giving arran
 <br/>
 
 
-**<a href="https://www.bib.bund.de/Publikation/2024/Passport-to-progress-The-effects-of-birthright-citizenship-on-siblings-education.html?nn=1219476" style="color:black; text-decoration: underline;">Passport to Progress: The Effects of Birthright Citizenship on Siblings’ Education </a>**
+**<a href="https://www.bib.bund.de/Publikation/2024/Passport-to-progress-The-effects-of-birthright-citizenship-on-siblings-education.html?nn=1219476" style="color:black; text-decoration: underline;">Passport to Progress: The Effects of Birthright Citizenship on Siblings’ Education </a>**. **R&R** at **Economics of Education Review**. This version: May 2024.
 
 
 <details>
