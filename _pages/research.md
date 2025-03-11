@@ -33,7 +33,9 @@ Health and well-being in the family context can be affected by care giving arran
 This paper analyzes family spillovers of birthright citizenship in Germany. By using event study and difference-in-differences methodologies on large-scale survey datasets, I examine the direct impact of citizenship on immigrant children and its spillover effects on the educational achievements of their older siblings who were born before the reform. The findings reveal educational benefits for immigrant children, and positive spillover effects on their older siblings' academic achievements. The spillovers can be attributed to a considerable increase in parental investments in the siblings' education and increased naturalization of parents and older siblings. Consequently, this study suggests that previous evaluations of citizenship have underestimated its benefits.
 </details>
 
+
 <br/>
+
 
 **How information affects parents' beliefs and behavior: Evidence from first-time report cards for German school children** (with Ariel Kalil).
 
