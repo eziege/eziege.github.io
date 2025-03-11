@@ -4,7 +4,7 @@ layout: page
 title: Research
 ---
 
-**<a href="https://www.comparativepopulationstudies.de/index.php/CPoS/article/view/578" style="color:black; text-decoration: underline;">Should Mama or Papa Work? Variations in attitudes towards parental employment by country of origin and child age.</a>  Comparative Population Studies, Vol. 48: 339-368 (with Ludovica Gambaro, C. Katharina Spiess and Katharina Wrohlich).**
+**<a href="https://www.comparativepopulationstudies.de/index.php/CPoS/article/view/578" style="color:black; text-decoration: underline;">Should Mama or Papa Work? Variations in attitudes towards parental employment by country of origin and child age.</a> ** Comparative Population Studies, Vol. 48: 339-368 (with Ludovica Gambaro, C. Katharina Spiess and Katharina Wrohlich).
 
 <details>
     <summary>Abstract</summary>
@@ -15,23 +15,22 @@ The results highlight remarkable differences between respondents from West and E
 
 <br/>
 
-**<a href="https://drive.google.com/file/d/1_TwCEwnNmQookPuTnR2HZgUstj2hIVtD/view?usp=sharing" style="color:black; text-decoration: underline;">Does Grandparenting Pay off for the Next Generations' Health and Well-being? </a> (with Mara Barschkett and C. Katharina Spiess)**
+**<a href="https://drive.google.com/file/d/1_TwCEwnNmQookPuTnR2HZgUstj2hIVtD/view?usp=sharing" style="color:black; text-decoration: underline;">Does Grandparenting Pay off for the Next Generations' Health and Well-being? </a>** (with Mara Barschkett and C. Katharina Spiess) **R&R** at **Health Economics**
 
 <details>
     <summary>Abstract</summary>
-Grandparents act as the third largest caregiver for children after parental care and daycare in Germany, as in many Western societies. Adopting a double-generation perspective, we investigate the causal impact of this care mode on parental well-being and children's overall
-health as one dimension of child well-being. We analyze age-speci c e ects based on a representative German panel data set and exploit arguably exogenous variations in geographical distance to grandparents. Our results suggest positive e ects on parental satisfaction with the childcare situation and mothers' satisfaction with leisure. In contrast, our results point to negative e ects on children's health in the short run. If children three years and older are in full-time daycare or school and, in addition, regularly cared for by grandparents, they have worse health outcomes.
+Health and well-being in the family context can be affected by care giving arrangements. Following parental care and daycare, grandparents are the third most important care giver for children in many Western societies. Despite the relevance of grandparental care, there is little evidence on the causal effects of this care mode on the next generations' health and well-being. In this paper, we fill this gap by investigating the causal impact of regular grandparental care on the self-reported health and (domain-specific) satisfaction of both parents and children. To do so, we exploit geographic distance to grandparents as a source of arguably exogenous variation and use representative German panel data for families with children under the age of eleven. Our results suggest positive effects on parental satisfaction with the child care situation, as well as mothers' satisfaction with their leisure time. However, we also find negative effects on children's health, particularly for elementary school aged children and for boys. 
 </details>
 
 <br/>
 
 
-**<a href="https://www.bib.bund.de/Publikation/2024/Passport-to-Progress-The-Effects-of-Birthright-Citizenship-on-Siblings-Education.html?nn=1209574" style="color:black; text-decoration: underline;">Passport to Progress: The Effects of Birthright Citizenship on Siblings’ Education </a>**
+**<a href="https://www.bib.bund.de/Publikation/2024/Passport-to-progress-The-effects-of-birthright-citizenship-on-siblings-education.html?nn=1219476" style="color:black; text-decoration: underline;">Passport to Progress: The Effects of Birthright Citizenship on Siblings’ Education </a>**
 
 
 <details>
     <summary>Abstract</summary>
-This paper estimates family spillovers of granting birthright citizenship to immigrant children in Germany. By utilizing event study and difference-in-differences approaches and large-scale survey data sets, I examine the direct impact of citizenship on immigrant children and its spillover effects on the education of their older siblings who were born before the reform to provide a comprehensive account of the benefits associated with citizenship. The findings reveal educational benefits for immigrant children, and positive spillover effects on the academic achievements of their older siblings, which can be attributed to the considerable increase in investments made by parents in the siblings' education. Consequently, the results suggest that previous evaluations of citizenship have underestimated its advantages.
+This paper analyzes family spillovers of birthright citizenship in Germany. By using event study and difference-in-differences methodologies on large-scale survey datasets, I examine the direct impact of citizenship on immigrant children and its spillover effects on the educational achievements of their older siblings who were born before the reform. The findings reveal educational benefits for immigrant children, and positive spillover effects on their older siblings' academic achievements. The spillovers can be attributed to a considerable increase in parental investments in the siblings' education and increased naturalization of parents and older siblings. Consequently, this study suggests that previous evaluations of citizenship have underestimated its benefits.
 </details>
 
 
