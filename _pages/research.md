@@ -35,5 +35,9 @@ This paper analyzes family spillovers of birthright citizenship in Germany. By u
 
 **How information affects parents' beliefs and behavior: Evidence from first-time report cards for German school children** (with Ariel Kalil).
 
+<details>
+    <summary>Abstract</summary>
+Most parents overestimate their children's skills and performance in school. These parental misconceptions can exacerbate educational inequality, as parents’ beliefs about their children's current performance influence their investments in their children's skill development. This paper capitalizes on exogenous variation in report card distribution across federal states in Germany to examine whether high-stakes signals from schools regarding a child's performance affect parental beliefs and behavior. Our findings indicate that whereas information from schools does not impact parents’ beliefs, it does boost their behavioral investments in child skill-building. This suggests that receiving signals from schools can be valuable, as it reinforces the importance of educational activities for parents. We further find that numerical signals are more impactful than verbal signals and that subsequent signals are less powerful than the initial signal.
+</details>
 
 
