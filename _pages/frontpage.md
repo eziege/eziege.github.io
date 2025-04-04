@@ -21,7 +21,7 @@ My research focuses on family economics, especially in relation to education and
 
 <br/>
 
-<center><img src="/assets/imgs/Elena Ziege_web_lq.png" width="1000px">
+<center><img src="/assets/imgs/Elena_Ziege_web_lq.png" width="1000px">
 
 
 
