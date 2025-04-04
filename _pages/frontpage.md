@@ -13,7 +13,7 @@ My research focuses on family economics, especially in relation to education and
 
 <br/>
 
-<img src="/assets/imgs/download_symbol.png" width="20px">  <a href="assets/CV_website.pdf" download > CV </a>
+<img src="/assets/imgs/download_symbol.png" width="20px">  <a href="assets/CV_website.pdf" target="_blank" > CV </a>
 
 
 
