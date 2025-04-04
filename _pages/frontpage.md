@@ -13,7 +13,7 @@ My research focuses on family economics, especially in relation to education and
 
 <br/>
 
-<img src="/assets/imgs/download_symbol.png" width="20px"> Download my <a href="eziege.github.io/assets/CV_webiste.pdf" target="_blank"> CV</a>.
+<img src="/assets/imgs/download_symbol.png" width="20px"> Download my <embed src="https://eziege.github.io/CV_website.pdf" type="application/pdf" /> CV</a>.
 
 
 
@@ -24,3 +24,5 @@ My research focuses on family economics, especially in relation to education and
 <p align="center">
   <img width="800" src="/assets/imgs/Elena_Ziege_web_lq.png">
 </p>
+
+
