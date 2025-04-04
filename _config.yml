@@ -1,7 +1,7 @@
 title: Elena Ziege
 description: "Elena Ziege | Family and Education Economist | Federal Institute for Population Reesearch (BiB)"
 author: "Elena Ziege"
-mail: "elena.ziege@bib.bund.de"
+mail: "elena.ziege @ bib.bund.de"
 phone : "+49 (0) 611 75 4120"
 address1 : "Friedrich-Ebert-Allee 4"
 address2 : "65185 Wiesbaden"
@@ -12,7 +12,6 @@ theme: minima
 base_url: /
 
 # Minima social links
-twitter_username: Elena_Ziege
 linkedin_username: elena-ziege
 
 # Minima: show excerpts in the frontpage
