@@ -24,7 +24,7 @@ My research focuses on family economics, especially in relation to education and
 
 
 <p align="center">
-  <img src="/assets/imgs/IMG_8520_klein.png" width="80">
+  <img src="/assets/imgs/IMG_8520_klein.png" width="500">
 </p>
 
 
