@@ -24,7 +24,7 @@ minima:
 header_pages:
   - _pages/research.md
   - _pages/policy.md
-  - _pages/CV.md
+  - _pages/cv.md
 
 include:
     - _pages
