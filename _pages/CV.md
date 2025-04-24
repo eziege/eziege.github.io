@@ -5,7 +5,8 @@ title: CV
 
 ---
 
+<object data="assets/CV_website.pdf" type="application/pdf" width="100%" height="600px"></object>
 
-<img src="/assets/imgs/download_symbol.png" width="20px">  <a href="assets/CV_website.pdf" target="_blank" > CV </a>
+
 
 
