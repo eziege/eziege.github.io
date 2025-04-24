@@ -15,7 +15,7 @@ The results highlight remarkable differences between respondents from West and E
 
 <br/>
 
-**<a href="assets/Grandparents_April2025.pdf" style="color:black; text-decoration: underline;" target="_blank" > The Generational Gift: The Effects of Grandparental Care on the Next Generations' Health and Well-being </a>** (with Mara Barschkett and C. Katharina Spiess). R&R at Health Economics. 
+**<a href="assets/Grandparents_April2025.pdf" style="color:black; text-decoration: underline;" target="_blank" > The Generational Gift: The Effects of Grandparental Care on the Next Generations' Health and Well-being</a>** (with Mara Barschkett and C. Katharina Spiess). R&R at Health Economics. 
 
 <details>
     <summary>Abstract</summary>
@@ -25,7 +25,7 @@ Health and well-being in the family context can be affected by care giving arran
 <br/>
 
 
-**<a href="https://www.bib.bund.de/Publikation/2024/Passport-to-progress-The-effects-of-birthright-citizenship-on-siblings-education.html?nn=1219476" style="color:black; text-decoration: underline;" target="_blank" > Passport to Progress: The Effects of Birthright Citizenship on Siblings’ Education. </a>** R&R at Economics of Education Review. This version: May 2024.
+**<a href="https://www.bib.bund.de/Publikation/2024/Passport-to-progress-The-effects-of-birthright-citizenship-on-siblings-education.html?nn=1219476" style="color:black; text-decoration: underline;" target="_blank" > Passport to Progress: The Effects of Birthright Citizenship on Siblings’ Education.</a>** R&R at Economics of Education Review. This version: May 2024.
 
 
 <details>
@@ -36,7 +36,7 @@ This paper analyzes family spillovers of birthright citizenship in Germany. By u
 
 <br/>
 
-**<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219857" style="color:black; text-decoration: underline;" target="_blank" > How information affects parents' beliefs and behavior: Evidence from first-time report cards for German school children </a>** (with Ariel Kalil).
+**<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219857" style="color:black; text-decoration: underline;" target="_blank" > How information affects parents' beliefs and behavior: Evidence from first-time report cards for German school children</a>** (with Ariel Kalil).
 
 <details>
     <summary>Abstract</summary>
