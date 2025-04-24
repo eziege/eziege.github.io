@@ -22,6 +22,7 @@ minima:
 
 # Minima: custom header links
 header_pages:
+  - _pages/CV.md
   - _pages/research.md
   - _pages/policy.md
 
