@@ -4,7 +4,7 @@ layout: page
 title: Policy
 ---
 
-<a href="https://www.bib.bund.de/Publikation/2024/Muetter-mit-Zuwanderungsgeschichte.html?nn=1219434" style="color:black; text-decoration: underline;">Mütter mit Zuwanderungsgeschichte. Ihre Erwerbs- und Sorgearbeit, Geschlechternormen und schulischen Unterstützungsleistungen.</a> BiB.Bevölkerungs.Studien 1/2022. Wiesbaden: Bundesinstitut für Bevölkerungsforschung (with Ludovica Gambaro, Lidia Gutu, Sophia Schmitz and C. Katharina Spiess). 
+<a href="https://www.bib.bund.de/Publikation/2024/Muetter-mit-Zuwanderungsgeschichte.html?nn=1219434" style="color:black; text-decoration: underline;">Mütter mit Zuwanderungsgeschichte. Ihre Erwerbs- und Sorgearbeit, Geschlechternormen und schulischen Unterstützungsleistungen.</a> BiB.Bevölkerungs.Studien 1/2024. Wiesbaden: Bundesinstitut für Bevölkerungsforschung (with Ludovica Gambaro, Lidia Gutu, Sophia Schmitz and C. Katharina Spiess). 
 
 
 <a href="https://www.diw.de/de/diw_01.c.908180.de/publikationen/wochenberichte/2024_29_1/aufteilung_von_erwerbs-_und_sorgearbeit_bei_eltern__wunsch_und_wirklichkeit_liegen_teils_weit_auseinander.html" style="color:black; text-decoration: underline;">Aufteilung von Erwerbs- und Sorgearbeit bei Eltern: Wunsch und Wirklichkeit liegen teils weit auseinander.</a> DIW Wochenbericht 29/2024, S. 459-466 (with Ludovica Gambaro, Annica Gehlen, C. Katharina Spieß and Katharina Wrohlich).
