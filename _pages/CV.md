@@ -1,8 +1,7 @@
 ---
-permalink: /
-layout: home
-title: Welcome to my Website!
-list_title: My blog posts
+permalink: /cv
+layout: page
+title: CV
 
 ---
 
