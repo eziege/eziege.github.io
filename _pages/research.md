@@ -36,12 +36,11 @@ This paper analyzes family spillovers of birthright citizenship in Germany. By u
 
 <br/>
 
-
-**How information affects parents' beliefs and behavior: Evidence from first-time report cards for German school children** (with Ariel Kalil).
+**<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5219857" style="color:black; text-decoration: underline;">How information affects parents' beliefs and behavior: Evidence from first-time report cards for German school children. </a>** (with Ariel Kalil).
 
 <details>
     <summary>Abstract</summary>
-Most parents overestimate their children's skills and performance in school. These parental misconceptions can exacerbate educational inequality, as parents’ beliefs about their children's current performance influence their investments in their children's skill development. This paper capitalizes on exogenous variation in report card distribution across federal states in Germany to examine whether high-stakes signals from schools regarding a child's performance affect parental beliefs and behavior. Our findings indicate that whereas information from schools does not impact parents’ beliefs, it does boost their behavioral investments in child skill-building. This suggests that receiving signals from schools can be valuable, as it reinforces the importance of educational activities for parents. We further find that numerical signals are more impactful than verbal signals and that subsequent signals are less powerful than the initial signal.
+Most parents overestimate their children's skills and performance in school. As parental misperceptions are more frequently found in less-advantaged families, they can exacerbate educational inequality, since parents' beliefs about their children's current performance influence their investments in their children's skill development. This paper capitalizes on exogenous variation in report card distribution across federal states in Germany to examine whether information from teachers regarding a child's performance affects parental beliefs and behavior and if so how this differs by subject and group. Our findings indicate that school information boosts parents' behavioral investments in child skill-building while having a limited impact on their beliefs. This finding suggests that receiving information from schools can be valuable as it reinforces the importance of educational activities for parents. We further find that numerical information treatments are more impactful than verbal treatments, that subsequent treatments are less potent than the initial treatment, and that school information only boosts parental investment when teachers hold accurate beliefs about children's skills.
 </details>
 
 
