@@ -11,14 +11,6 @@ I am a PhD student at the <a href="https://www.bib.bund.de/DE/Institut/Mitarbeit
 
 My research focuses on family economics, especially in relation to education and migration. More details on my publications and work in progress can be found <a href="/research.html" style="color:black; text-decoration: underline;">here</a>. Feel free to get in touch with me to discuss my research or if you're interested in preliminary versions of papers I'm currently working on.
 
-<br/>
-
-<img src="/assets/imgs/download_symbol.png" width="20px">  <a href="assets/CV_website.pdf" target="_blank" > CV </a>
-
-
-
-
-
 
 <br/>
 
