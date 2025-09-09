@@ -15,7 +15,7 @@ The results highlight remarkable differences between respondents from West and E
 
 <br/>
 
-**<a href="assets/Passport_to_Progress_September_2025.pdf" style="color:black; text-decoration: underline;" target="_blank" > Passport to Progress: The Effects of Birthright Citizenship on Siblings’ Education.</a>** Accepted at Economics of Education Review. This version: September 2025.
+**<a href="assets/Passport_to_Progress_September_2025.pdf" style="color:black; text-decoration: underline;" target="_blank" > Passport to Progress: The Effects of Birthright Citizenship on Siblings’ Education.</a>** Accepted at Economics of Education Review. 
 
 <details>
     <summary>Abstract</summary>
