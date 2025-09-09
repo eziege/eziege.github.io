@@ -40,8 +40,9 @@ Health and well-being in the family context can be affected by care giving arran
 Most parents overestimate their children's skills and performance in school. As parental misperceptions are more frequently found in less-advantaged families, they can exacerbate educational inequality, since parents' beliefs about their children's current performance influence their investments in their children's skill development. This paper capitalizes on exogenous variation in report card distribution across federal states in Germany to examine whether information from teachers regarding a child's performance affects parental beliefs and behavior and if so how this differs by subject and group. Our findings indicate that school information boosts parents' behavioral investments in child skill-building while having a limited impact on their beliefs. This finding suggests that receiving information from schools can be valuable as it reinforces the importance of educational activities for parents. We further find that numerical information treatments are more impactful than verbal treatments, that subsequent treatments are less potent than the initial treatment, and that school information only boosts parental investment when teachers hold accurate beliefs about children's skills.
 </details>
 
+<br/>
 
-**<a> The Economic Impact of Advance Child Support: Financial Well-being, Labor Supply, and Consumption of Single-Parent Households </a>** (with Sophia Schmitz).
+**<a style="color:black; text-decoration: underline;" target="_blank" > The Economic Impact of Advance Child Support: Financial Well-being, Labor Supply, and Consumption of Single-Parent Households </a>** (with Sophia Schmitz).
 
 <details>
     <summary>Abstract</summary>
