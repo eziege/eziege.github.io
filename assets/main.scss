@@ -1,11 +1,12 @@
 ---
 ---
 
+@import "minima/skins/classic";   // or "auto", "dark", "solarized-light", "solarized-dark"
 @import "minima/initialize";
 
 @import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
 body {
-    font-family: 'Montserrat', sans-serif;
-    color: #383838;
+  font-family: 'Montserrat', sans-serif;
+  color: #383838; // this will override Minima’s $text-color
 }
