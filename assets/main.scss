@@ -1,9 +1,14 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+/* Override Minima variables BEFORE loading the theme */
+$text-color: #383838;   // your custom text color
+$header-font: 'Montserrat', sans-serif;
 
+/* Import Minima's main stylesheet (compatible with GH Pages) */
+@import "minima";
+
+/* Add any custom CSS AFTER Minima */
 body {
   font-family: 'Montserrat', sans-serif;
-  color: #383838; // overrides Minima's default $text-color
 }
