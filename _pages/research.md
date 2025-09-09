@@ -41,7 +41,7 @@ Most parents overestimate their children's skills and performance in school. As 
 </details>
 
 
-**<a The Economic Impact of Advance Child Support: Financial Well-being, Labor Supply, and Consumption of Single-Parent Households</a>** (with Sophia Schmitz).
+**<a> The Economic Impact of Advance Child Support: Financial Well-being, Labor Supply, and Consumption of Single-Parent Households </a>** (with Sophia Schmitz).
 
 <details>
     <summary>Abstract</summary>
