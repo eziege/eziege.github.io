@@ -41,3 +41,11 @@ Most parents overestimate their children's skills and performance in school. As 
 </details>
 
 
+**<a The Economic Impact of Advance Child Support: Financial Well-being, Labor Supply, and Consumption of Single-Parent Households</a>** (with Sophia Schmitz).
+
+<details>
+    <summary>Abstract</summary>
+About one in five children across OECD countries lives in single-parent households, many of which receive no financial support from the non-resident parent. To address this, several countries have introduced public advance child support schemes. This paper investigates the impact of such payments on the financial well-being, labor supply decisions, and household spending patterns of single-parent families, drawing on a major reform to Germany’s advance child support program that substantially expanded both benefit duration and eligibility in 2017. Using representative data from the German Microcensus and the Income and Expenditure Survey, we find  these payments to improve families’ financial situations without crowding out private child support. Since eligibility was tied to economic independence of single-parent households, the reform also led to a decrease in the probability of receiving welfare benefits, which appears to be driven by exits from welfare due to increases in labor supply at the intensive rather than the extensive margin. We also find changes in expenditure patterns of affected families, with increased spending on food and beverages as well as goods related to the human capital development and well-being of children.
+</details>
+
+
