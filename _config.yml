@@ -6,7 +6,7 @@ phone : "+49 (0) 611 75 4120"
 address1 : "Friedrich-Ebert-Allee 4"
 address2 : "65185 Wiesbaden"
 
-remote_theme: jekyll/minima@3.0
+remote_theme: jekyll/minima@2.5.1
 
 base_url: /
 
