@@ -4,7 +4,16 @@ layout: page
 title: Research
 ---
 
-**<a href="https://www.comparativepopulationstudies.de/index.php/CPoS/article/view/578" style="color:black; text-decoration: underline;" target="_blank" > Should Mama or Papa Work? Variations in attitudes towards parental employment by country of origin and child age.</a>** Comparative Population Studies, Vol. 48: 339-368 (with Ludovica Gambaro, C. Katharina Spiess and Katharina Wrohlich).
+**<a href="assets/Passport_to_Progress_September_2025.pdf" style="color:black; text-decoration: underline;" target="_blank" > Passport to Progress: The Effects of Birthright Citizenship on Siblings’ Education.</a>** Economics of Education Review, Vol. 109, 102722, 2025. 
+
+<details>
+    <summary>Abstract</summary>
+This paper analyzes family spillovers of birthright citizenship in Germany. By using difference-in-differences and event study methodologies on large-scale survey datasets, I examine the direct impact of citizenship on immigrant children and its spillover effects on the educational achievements of their older siblings who were born before the reform. The findings reveal educational benefits for immigrant children, and positive spillover effects on their older siblings' academic achievements. Children are 13 percentage points more likely, and their older siblings are 6 percentage points more likely, to complete secondary school with the highest degree. The spillovers can be attributed to a considerable increase in parental investments in the siblings' education and increased naturalization of parents and older siblings. Consequently, this study suggests that previous evaluations of citizenship have underestimated its benefits.
+</details>
+
+<br/>
+
+**<a href="https://www.comparativepopulationstudies.de/index.php/CPoS/article/view/578" style="color:black; text-decoration: underline;" target="_blank" > Should Mama or Papa Work? Variations in attitudes towards parental employment by country of origin and child age.</a>** Comparative Population Studies, Vol. 48: 339-368, 2023 (with Ludovica Gambaro, C. Katharina Spiess and Katharina Wrohlich).
 
 <details>
     <summary>Abstract</summary>
@@ -15,16 +24,7 @@ The results highlight remarkable differences between respondents from West and E
 
 <br/>
 
-**<a href="assets/Passport_to_Progress_September_2025.pdf" style="color:black; text-decoration: underline;" target="_blank" > Passport to Progress: The Effects of Birthright Citizenship on Siblings’ Education.</a>** Accepted at Economics of Education Review. 
-
-<details>
-    <summary>Abstract</summary>
-This paper analyzes family spillovers of birthright citizenship in Germany. By using difference-in-differences and event study methodologies on large-scale survey datasets, I examine the direct impact of citizenship on immigrant children and its spillover effects on the educational achievements of their older siblings who were born before the reform. The findings reveal educational benefits for immigrant children, and positive spillover effects on their older siblings' academic achievements. Children are 13 percentage points more likely, and their older siblings are 6 percentage points more likely, to complete secondary school with the highest degree. The spillovers can be attributed to a considerable increase in parental investments in the siblings' education and increased naturalization of parents and older siblings. Consequently, this study suggests that previous evaluations of citizenship have underestimated its benefits.
-</details>
-
-<br/>
-
-**<a href="assets/Grandparents_April2025.pdf" style="color:black; text-decoration: underline;" target="_blank" > The Generational Gift: The Effects of Grandparental Care on the Next Generations' Health and Well-being</a>** (with Mara Barschkett and C. Katharina Spiess). R&R at Health Economics. 
+**<a href="assets/Grandparents_April2025.pdf" style="color:black; text-decoration: underline;" target="_blank" > The Generational Gift: The Effects of Grandparental Care on the Next Generations' Health and Well-being</a>** (with Mara Barschkett and C. Katharina Spiess). Accepeted at Health Economics. 
 
 <details>
     <summary>Abstract</summary>
