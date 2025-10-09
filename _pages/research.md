@@ -24,7 +24,7 @@ The results highlight remarkable differences between respondents from West and E
 
 <br/>
 
-**<a href="assets/Grandparents_April2025.pdf" style="color:black; text-decoration: underline;" target="_blank" > The Generational Gift: The Effects of Grandparental Care on the Next Generations' Health and Well-being.</a>** Accepeted at Health Economics (with Mara Barschkett and C. Katharina Spiess). 
+**<a href="assets/Grandparents_April2025.pdf" style="color:black; text-decoration: underline;" target="_blank" > The Generational Gift: The Effects of Grandparental Care on the Next Generations' Health and Well-being.</a>** Accepted at Health Economics (with Mara Barschkett and C. Katharina Spiess). 
 <details>
     <summary>Abstract</summary>
 Health and well-being in the family context can be affected by care giving arrangements. Following parental care and daycare, grandparents are the third most important care givers for children in many Western societies. Despite the relevance of grandparental care, there is little evidence on the causal effects of this care mode on the next generations' health and well-being. In this paper, we fill this gap by investigating the causal impact of regular grandparental care on the self-reported health and (domain-specific) satisfaction of both parents and children. To do so, we exploit geographic distance to grandparents as a source of arguably exogenous variation and use representative German panel data for families with children under the age of eleven. Our results suggest positive effects on parental satisfaction with the child care situation, as well as mothers' satisfaction with their leisure time. However, we also find negative effects on children's health, particularly for elementary school aged children and for boys. 
