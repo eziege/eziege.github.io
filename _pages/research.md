@@ -4,7 +4,8 @@ layout: page
 title: Research
 ---
 
-**<a href="assets/Passport_to_Progress_September_2025.pdf" style="color:black; text-decoration: underline;" target="_blank" > Passport to Progress: The Effects of Birthright Citizenship on Siblings’ Education.</a>** Economics of Education Review, Vol. 109, 102722, 2025. 
+
+**<a href="https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Fsd%2Farticle%2FS0272-7757(25)00102-5/1/01020199c585100c-84f79fd8-802f-42af-ad36-94208dbcd2e6-000000/u-iOWtKOW-tkY8yz2aItMGQpZ60=447" style="color:black; text-decoration: underline;" target="_blank" > Passport to Progress: The Effects of Birthright Citizenship on Siblings’ Education.</a>** Economics of Education Review, Vol. 109, 102722, 2025. 
 
 <details>
     <summary>Abstract</summary>
