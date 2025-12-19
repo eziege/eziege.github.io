@@ -4,6 +4,13 @@ layout: page
 title: Research
 ---
 
+**<a href="https://onlinelibrary.wiley.com/doi/10.1002/hec.70054" style="color:black; text-decoration: underline;" target="_blank" > The Generational Gift: The Effects of Grandparental Care on the Next Generations' Health and Well-being.</a>** Health Economics: 1–26, 2025 (with Mara Barschkett and C. Katharina Spiess). 
+<details>
+    <summary>Abstract</summary>
+Health and well-being in the family context can be affected by care giving arrangements. Following parental care and daycare, grandparents are the third most important care givers for children in many Western societies. Despite the relevance of grandparental care, there is little evidence on the causal effects of this care mode on the next generations' health and well-being. In this paper, we fill this gap by investigating the causal impact of regular grandparental care on the self-reported health and (domain-specific) satisfaction of both parents and children. To do so, we exploit geographic distance to grandparents as a source of arguably exogenous variation and use representative German panel data for families with children under the age of eleven. Our results suggest positive effects on parental satisfaction with the child care situation, as well as mothers' satisfaction with their leisure time. However, we also find negative effects on children's health, particularly for elementary school aged children and for boys. 
+</details>
+
+<br/>
 
 **<a href="https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Fsd%2Farticle%2FS0272-7757(25)00102-5/1/01020199c585100c-84f79fd8-802f-42af-ad36-94208dbcd2e6-000000/u-iOWtKOW-tkY8yz2aItMGQpZ60=447" style="color:black; text-decoration: underline;" target="_blank" > Passport to Progress: The Effects of Birthright Citizenship on Siblings’ Education.</a>** Economics of Education Review, Vol. 109, 102722, 2025. 
 
@@ -21,14 +28,6 @@ This paper analyzes family spillovers of birthright citizenship in Germany. By u
 Employment among mothers has been rising in recent decades, although mothers of young children often work fewer hours than other women do. Parallel to this trend, approval of maternal employment has increased, albeit not evenly across groups. However, differences in attitudes remain unexplored despite their importance for better understanding mothers’ labour market behaviour. Meanwhile, the employment of fathers has remained stable and attitudes towards paternal employment do not differ as much as attitudes towards maternal employment do between socio-economic groups.
 This paper examines attitudes towards maternal and paternal employment. It focuses on Germany, drawing on data from the German Family Demography Panel Study (FReDA). The survey explicitly asks whether mothers and fathers should be in paid work, work part-time or full-time, presenting respondents with fictional family profiles that vary the youngest child’s age. Unlike previous studies, the analysis compares the views of respondents with different origins: West Germany, East Germany, immigrants from different world regions, and second-generation migrants in West Germany.
 The results highlight remarkable differences between respondents from West and East Germany, with the former group displaying strong approval for part-time employment among mothers and fathers of very young children and the latter group reporting higher approval for full-time employment. Immigrant groups are far from homogenous, holding different attitudes depending on their region of origin. Taken together, the results offer a nuanced picture of attitudes towards maternal and paternal employment. We discuss these findings in relation to labour markets participation in Germany.
-</details>
-
-<br/>
-
-**<a href="assets/Grandparents_April2025.pdf" style="color:black; text-decoration: underline;" target="_blank" > The Generational Gift: The Effects of Grandparental Care on the Next Generations' Health and Well-being.</a>** Accepted at Health Economics (with Mara Barschkett and C. Katharina Spiess). 
-<details>
-    <summary>Abstract</summary>
-Health and well-being in the family context can be affected by care giving arrangements. Following parental care and daycare, grandparents are the third most important care givers for children in many Western societies. Despite the relevance of grandparental care, there is little evidence on the causal effects of this care mode on the next generations' health and well-being. In this paper, we fill this gap by investigating the causal impact of regular grandparental care on the self-reported health and (domain-specific) satisfaction of both parents and children. To do so, we exploit geographic distance to grandparents as a source of arguably exogenous variation and use representative German panel data for families with children under the age of eleven. Our results suggest positive effects on parental satisfaction with the child care situation, as well as mothers' satisfaction with their leisure time. However, we also find negative effects on children's health, particularly for elementary school aged children and for boys. 
 </details>
 
 <br/>
