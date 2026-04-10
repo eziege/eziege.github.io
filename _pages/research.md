@@ -32,7 +32,7 @@ The results highlight remarkable differences between respondents from West and E
 
 <br/>
 
-**<a href="https://www.bib.bund.de/Publikation/2026/Biased-beliefs-beget-biased-beliefs-Teacher-accuracy-and-the-effect-of-report-cards-on-parental.html?nn=115824" style="color:black; text-decoration: underline;" target="_blank" > The Messenger Matters: Teacher Accuracy and the Effect of Report Cards on Parental Investment</a>** (with Ariel Kalil).
+**<a href="https://www.bib.bund.de/Publikation/2026/pdf/Biased-beliefs-beget-biased-beliefs-Teacher-accuracy-and-the-effect-of-report-cards-on-parental.pdf?__blob=publicationFile&v=2" style="color:black; text-decoration: underline;" target="_blank" > The Messenger Matters: Teacher Accuracy and the Effect of Report Cards on Parental Investment</a>** (with Ariel Kalil).
 
 <details>
     <summary>Abstract</summary>
