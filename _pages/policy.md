@@ -4,9 +4,9 @@ layout: page
 title: Policy
 ---
 
-<a href="https://www.bib.bund.de/Publikation/2026/Bildungsort-Familie.html?nn=125062" style="color:black; text-decoration: underline;">Bildungsort Familie. Ressourcenstärkere Eltern investieren mehr Zeit und Geld in die Bildung ihrer Kinder.</a> BiB.Aktuell 1/2026: 3–8 (with Sophia Schmitz, C. Katharina Spiess and Eliane Tuchborn). 
+<a href="https://www.bib.bund.de/Publikation/2026/pdf/Bildungsort-Familie.pdf?__blob=publicationFile&v=3" style="color:black; text-decoration: underline;">Bildungsort Familie. Ressourcenstärkere Eltern investieren mehr Zeit und Geld in die Bildung ihrer Kinder.</a> BiB.Aktuell 1/2026: 3–8 (with Sophia Schmitz, C. Katharina Spiess and Eliane Tuchborn). 
 
-<a href="https://www.bib.bund.de/Publikation/2026/pdf/Ein-Blick-auf-Großeltern-Eltern-und-Enkel.pdf?__blob=publicationFile&v=2" style="color:black; text-decoration: underline;">Ein Blick auf Großeltern, Eltern und Enkel.</a> In: Rossmaier, Leon; Edel, Andreas (Hrsg.): Zwischen Solidarität, Fairness und Konflikt: Wie wir das Generationenverhältnis neu ordnen können. Population and Policy Discussion Paper 24: 33–38, 2026 (with C. Katharina Spiess). 
+<a href="https://www.bib.bund.de/Publikation/2026/pdf/Ein-Blick-auf-Großeltern-Eltern-und-Enkel.pdf?__blob=publicationFile&v=2" style="color:black; text-decoration: underline;">Ein Blick auf Großeltern, Eltern und Enkel.</a> In: Rossmaier, Leon; Edel, Andreas (Ed.): Zwischen Solidarität, Fairness und Konflikt: Wie wir das Generationenverhältnis neu ordnen können. Population and Policy Discussion Paper 24: 33–38, 2026 (with C. Katharina Spiess). 
 
 <a href="https://www.oif.ac.at/informationsdienst-beziehungsweise/ausgaben-2026/ausgabe-12026/schulzeugnisse-und-elterliche-leistungseinschaetzung/" style="color:black; text-decoration: underline;">Schulzeugnisse und elterliche Leistungseinschätzung. Empirische Befunde zeigen: Zeugnisse führen durchschnittlich kaum zu einer Anpassung elterlicher Einschätzungen.</a> beziehungsweise: Informationsdienst des Österreichischen Instituts für Familienforschung 1/2026 (with Ariel Kalil). 
 
